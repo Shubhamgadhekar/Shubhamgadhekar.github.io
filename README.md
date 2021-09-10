@@ -1,5 +1,7 @@
 GitHub Repo of Project : https://github.com/Shubhamgadhekar/Shubhamgadhekar.github.io
 
+gitHub.io website link : https://shubhamgadhekar.github.io/ 
+
 Description : This is project about the Photo gallery which include some cool photos categories with the link more photoes you can also check to many photoes of that category.
 
 Technologies Used : HTML and CSS.
