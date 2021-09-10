@@ -1,3 +1,7 @@
+# Photography Website
+
+Link of the website : 
+
 GitHub Repo of Project : https://github.com/Shubhamgadhekar/Shubhamgadhekar.github.io
 
 gitHub.io website link : https://shubhamgadhekar.github.io/ 
@@ -6,8 +10,8 @@ Description : This is project about the Photo gallery which include some cool ph
 
 Technologies Used : HTML and CSS.
 
-Features : It has many categories with the link of more photoes of that category.
-           All the photoes are with high quality you want.
+Features : -It has many categories with the link of more photoes of that category.
+           -All the photoes are with high quality you want.
 
 How to use it : Double click on the index.html you can see the code of project and double click on the website link you can go directly to the website page.
 
